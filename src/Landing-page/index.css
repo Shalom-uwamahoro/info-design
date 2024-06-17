@@ -71,6 +71,9 @@ a{
     padding: 15px;
     width: 200px;
     cursor: pointer;
+    border: solid  darkblue 3px;
+    font-weight: bold;
+    color: darkblue;
 }
 .sign-in-button:hover{
     background-color: lightblue;
@@ -164,6 +167,9 @@ a{
         height: 30px;
         cursor: pointer;
         font-size: 12px;
+        border: solid  darkblue 1px;
+        font-weight: bold;
+        color: darkblue;
     }
     .sign-in-button:hover{
         background-color: lightblue;
@@ -259,6 +265,9 @@ a{
         height: 30px;
         cursor: pointer;
         font-size: 12px;
+        border: solid  darkblue 1px;
+        font-weight: bold;
+        color: darkblue;
     }
     .sign-in-button:hover{
         background-color: lightblue;
@@ -355,6 +364,9 @@ a{
         height: 30px;
         cursor: pointer;
         font-size: 12px;
+        border: solid  darkblue 1px;
+        font-weight: bold;
+        color: darkblue;
     }
     .sign-in-button:hover{
         background-color: lightblue;
@@ -451,6 +463,9 @@ a{
         height: 30px;
         cursor: pointer;
         font-size: 12px;
+        border: solid  darkblue 1px;
+        font-weight: bold;
+        color: darkblue;
     }
     .sign-in-button:hover{
         background-color: lightblue;
@@ -547,6 +562,9 @@ a{
         height: 30px;
         cursor: pointer;
         font-size: 12px;
+        border: solid  darkblue 1px;
+        font-weight: bold;
+        color: darkblue;
     }
     .sign-in-button:hover{
         background-color: lightblue;
@@ -643,6 +661,9 @@ a{
         height: 30px;
         cursor: pointer;
         font-size: 12px;
+        border: solid  darkblue 1px;
+        font-weight: bold;
+        color: darkblue;
     }
     .sign-in-button:hover{
         background-color: lightblue;
